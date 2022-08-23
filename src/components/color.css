@@ -1,0 +1,19 @@
+.color-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.color-container p {
+    margin: 5rem 0;
+    font-size: 4rem;
+}
+
+.color-container a {
+    font-size: 4rem;
+    text-align: center;
+}
